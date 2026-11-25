@@ -1,0 +1,6 @@
+{
+  "name": "VELOCE GT",
+  "description": "High-fidelity 3D driving and racing simulator with realistic tire physics, dynamic weather and day-night lighting, steering wheel peripheral support, customizable vehicle tuning, and real-time WebSocket multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
